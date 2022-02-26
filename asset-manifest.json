@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Swiggy-React-Web-Page/static/css/main.08de1ed1.chunk.css",
+    "main.js": "/Swiggy-React-Web-Page/static/js/main.04fe7333.chunk.js",
+    "main.js.map": "/Swiggy-React-Web-Page/static/js/main.04fe7333.chunk.js.map",
+    "runtime-main.js": "/Swiggy-React-Web-Page/static/js/runtime-main.1ad073f0.js",
+    "runtime-main.js.map": "/Swiggy-React-Web-Page/static/js/runtime-main.1ad073f0.js.map",
+    "static/js/2.9bf5d8e7.chunk.js": "/Swiggy-React-Web-Page/static/js/2.9bf5d8e7.chunk.js",
+    "static/js/2.9bf5d8e7.chunk.js.map": "/Swiggy-React-Web-Page/static/js/2.9bf5d8e7.chunk.js.map",
+    "static/js/3.b3a1e622.chunk.js": "/Swiggy-React-Web-Page/static/js/3.b3a1e622.chunk.js",
+    "static/js/3.b3a1e622.chunk.js.map": "/Swiggy-React-Web-Page/static/js/3.b3a1e622.chunk.js.map",
+    "index.html": "/Swiggy-React-Web-Page/index.html",
+    "static/css/main.08de1ed1.chunk.css.map": "/Swiggy-React-Web-Page/static/css/main.08de1ed1.chunk.css.map",
+    "static/js/2.9bf5d8e7.chunk.js.LICENSE.txt": "/Swiggy-React-Web-Page/static/js/2.9bf5d8e7.chunk.js.LICENSE.txt",
+    "static/media/main-image.d3803dad.jpg": "/Swiggy-React-Web-Page/static/media/main-image.d3803dad.jpg",
+    "static/media/restaurantinpocket1.8c94aa21.png": "/Swiggy-React-Web-Page/static/media/restaurantinpocket1.8c94aa21.png",
+    "static/media/restaurantinpocket2.5c564601.png": "/Swiggy-React-Web-Page/static/media/restaurantinpocket2.5c564601.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ad073f0.js",
+    "static/js/2.9bf5d8e7.chunk.js",
+    "static/css/main.08de1ed1.chunk.css",
+    "static/js/main.04fe7333.chunk.js"
+  ]
+}
